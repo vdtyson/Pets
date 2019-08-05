@@ -46,5 +46,41 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
     />
+    <TextView
+            android:id="@+id/OtherAnimals"
+            android:text="Animals I'd Have As Pets"
+            android:textSize="20dp"
+            android:textAlignment="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+    />
+    <TextView
+            android:id="@+id/pet4"
+            android:textColor="@color/colorPrimary"
+            android:text="Alpaca"
+            android:textSize="20dp"
+            android:textAlignment="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+    />
+    <TextView
+            android:id="@+id/pet5"
+            android:textColor="@color/colorPrimary"
+            android:text="Lama"
+            android:textSize="20dp"
+            android:textAlignment="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+    />
+    <TextView
+            android:id="@+id/pet6"
+            android:textColor="@color/colorPrimary"
+            android:text="Zebra"
+            android:textSize="20dp"
+            android:textAlignment="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+    />
+
 
 </LinearLayout>
